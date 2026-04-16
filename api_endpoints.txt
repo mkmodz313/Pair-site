@@ -1,0 +1,7 @@
+# API Endpoints & Workers.dev URLs Found
+
+## Regular API Endpoints:
+
+https://adeel-md-vps.vercel.app/deploy
+https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Rajdhani:wght@400;500;600;700&display=swap
+
